@@ -12,8 +12,8 @@ import datetime
 class Student:
 
     def __init__(self):
-        self.studentid = "2019302160216"
-        self.password = "MDU5ODIzNjczQTJFQjFFREM0QjExRDA3MzQ0NThBNkY="
+        self.studentid = "" #inspect it
+        self.password = ""
         self.timestamp = 0
         self.vtoken = ""
         self.baseURL = "http://xsxk.cuc.edu.cn/xsxkapp"
